@@ -1,4 +1,4 @@
-class Solution():
+class Two_sum():
     def __init__(self, nums: list, target: int):
         self.nums = nums
         self.target = target
